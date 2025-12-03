@@ -1,6 +1,6 @@
 [build]
   command = "pnpm build"
-  publish = "dist"
+  publish = "dist/public"
 
 [build.environment]
   NODE_VERSION = "22.13.0"
@@ -13,12 +13,12 @@
 
 [context.production]
   command = "pnpm build"
-  publish = "dist"
+  publish = "dist/public"
 
 [context.deploy-preview]
   command = "pnpm build"
-  publish = "dist"
+  publish = "dist/public"
 
 [context.branch-deploy]
   command = "pnpm build"
-  publish = "dist"
+  publish = "dist/public"
