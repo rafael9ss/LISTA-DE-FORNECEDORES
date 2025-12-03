@@ -1,0 +1,397 @@
+{
+  "nichos": [
+    {
+      "id": 1,
+      "nome": "Eletrônicos e acessórios",
+      "descricao": "Acessórios para celulares, eletrônicos e equipamentos de áudio/vídeo",
+      "fornecedores": [
+        {"id": "1-1", "nome": "ERA FULL IMPORTADORA", "produtos": "Acessórios para Celulares (capas, películas, fones)", "cidade": "São Paulo", "estado": "SP", "contatos": ["Site", "Telefone"]},
+        {"id": "1-2", "nome": "SABRINA", "produtos": "Eletrônicos, Celulares e Informática", "cidade": "São Paulo", "estado": "SP", "contatos": ["Site", "Telefone"]},
+        {"id": "1-3", "nome": "BRIGHT", "produtos": "Áudio e Vídeo", "cidade": "São Paulo", "estado": "SP", "contatos": ["Site", "Telefone"]},
+        {"id": "1-4", "nome": "ICB importadora", "produtos": "Acessórios para Celulares", "cidade": "São Paulo", "estado": "SP", "contatos": ["Site", "Telefone"]},
+        {"id": "1-5", "nome": "EVODIA IT BRAZIL", "produtos": "Acessórios para Celulares", "cidade": "São Paulo", "estado": "SP", "contatos": ["Site", "Telefone"]}
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "Acessórios femininos",
+      "descricao": "Bolsas, acessórios de moda feminina, meias e artigos em couro",
+      "fornecedores": [
+        {"id": "2-1", "nome": "Oxfoot", "produtos": "Bolsas, Acessórios de Moda Feminina, Acessórios de Moda em Couro", "cidade": "Rio de Janeiro", "estado": "RJ", "contatos": ["Site", "Telefone"]},
+        {"id": "2-2", "nome": "Anna Karenina", "produtos": "Acessórios de Moda Feminina/Masculina", "cidade": "São Marcos", "estado": "RS", "contatos": ["Site", "Telefone"]},
+        {"id": "2-3", "nome": "Socks Co", "produtos": "Meias de Compressão, Esportivas, Femininas, Infantis, Masculinas", "cidade": "Jacareí", "estado": "SP", "contatos": ["Site", "Telefone"]},
+        {"id": "2-4", "nome": "Grupo J Shayeb", "produtos": "Acessórios de Couro (Bolsas, Cintos, Mochilas)", "cidade": "Bauru", "estado": "SP", "contatos": ["Site", "Telefone"]},
+        {"id": "2-5", "nome": "Rota do Mar", "produtos": "Acessórios de Moda Feminina/Masculina, Surfwear", "cidade": "Santa Cruz do Capibaribe", "estado": "PE", "contatos": ["Site", "Telefone", "WhatsApp"]}
+      ]
+    },
+    {
+      "id": 3,
+      "nome": "Roupas femininas",
+      "descricao": "Moda feminina em atacado e varejo",
+      "fornecedores": [
+        {"id": "3-1", "nome": "CONFIDENCIAL BRASIL", "produtos": "Uniformes e Moda Corporativa (inclui feminina)", "cidade": "São Paulo", "estado": "SP", "contatos": ["Site", "Telefone"]},
+        {"id": "3-2", "nome": "CIANITA", "produtos": "Moda Feminina (atacado)", "cidade": "Ibirama", "estado": "SC", "contatos": ["Site", "Telefone", "WhatsApp"]},
+        {"id": "3-3", "nome": "Fábrica Bixugrillo", "produtos": "Moda Feminina", "cidade": "Uberlândia", "estado": "MG", "contatos": ["Site", "Telefone"]},
+        {"id": "3-4", "nome": "Yexx", "produtos": "Moda Feminina e Masculina", "cidade": "Maringá", "estado": "PR", "contatos": ["Site", "Telefone"]},
+        {"id": "3-5", "nome": "Cambodja", "produtos": "Moda Feminina (Fabricante e Atacado)", "cidade": "Salvador", "estado": "BA", "contatos": ["Site", "Telefone"]}
+      ]
+    },
+    {
+      "id": 4,
+      "nome": "Roupas masculinas",
+      "descricao": "Moda masculina em diferentes estilos e tamanhos",
+      "fornecedores": [
+        {"id": "4-1", "nome": "CONFIDENCIAL BRASIL", "produtos": "Uniformes e Moda Corporativa (inclui masculina)", "cidade": "São Paulo", "estado": "SP", "contatos": ["Site", "Telefone"]},
+        {"id": "4-2", "nome": "ASCONA", "produtos": "Moda Bebê, Infantil e Adulto (inclui masculina)", "cidade": "São Paulo", "estado": "SP", "contatos": ["Site", "Telefone", "WhatsApp"]},
+        {"id": "4-3", "nome": "Cativa", "produtos": "Moda Feminina, Masculina, Infantil, Plus Size", "cidade": "Pomerode", "estado": "SC", "contatos": ["Site", "Telefone"]},
+        {"id": "4-4", "nome": "Fico", "produtos": "Moda Masculina", "cidade": "Massaranduba", "estado": "SC", "contatos": ["Site", "Telefone"]},
+        {"id": "4-5", "nome": "BIVIK JEANS", "produtos": "Moda Masculina (Jeans)", "cidade": "São Paulo", "estado": "SP", "contatos": ["Site", "Telefone"]}
+      ]
+    },
+    {
+      "id": 5,
+      "nome": "Roupas infantis",
+      "descricao": "Moda para bebês e crianças",
+      "fornecedores": [
+        {"id": "5-1", "nome": "ANJOS BABY", "produtos": "Moda Baby e Infantil", "cidade": "Mirassol", "estado": "SP", "contatos": ["Site", "Telefone"]},
+        {"id": "5-2", "nome": "JLS CONFECÇÕES", "produtos": "Uniformes (inclui infantil)", "cidade": "Rio de Janeiro", "estado": "RJ", "contatos": ["Site", "Telefone", "Instagram"]},
+        {"id": "5-3", "nome": "ADYNA LIMA", "produtos": "Moda e Acessórios Femininos (inclui infantil)", "cidade": "Leme", "estado": "SP", "contatos": ["Site", "Telefone", "WhatsApp"]},
+        {"id": "5-4", "nome": "EMPORIUM ZERO GRAU", "produtos": "Moda Frio - Neve (inclui infantil)", "cidade": "Balneário Camboriú", "estado": "SC", "contatos": ["Site", "Telefone"]},
+        {"id": "5-5", "nome": "COLORIBABY", "produtos": "Moda Infantil", "cidade": "Duque de Caxias", "estado": "RJ", "contatos": ["Site", "Telefone"]}
+      ]
+    },
+    {
+      "id": 6,
+      "nome": "Fitness / Moda esportiva",
+      "descricao": "Roupas e acessórios para atividades físicas",
+      "fornecedores": [
+        {"id": "6-1", "nome": "CONFIDENCIAL BRASIL", "produtos": "Uniformes e Moda Corporativa (inclui esportiva)", "cidade": "São Paulo", "estado": "SP", "contatos": ["Site", "Telefone"]},
+        {"id": "6-2", "nome": "GOLD MAR", "produtos": "Moda Praia e Fitness", "cidade": "Votuporanga", "estado": "SP", "contatos": ["Site", "Telefone", "Instagram"]},
+        {"id": "6-3", "nome": "Zee Rucci", "produtos": "Moda Fitness", "cidade": "Pomerode", "estado": "SC", "contatos": ["Site", "Telefone"]},
+        {"id": "6-4", "nome": "ROUGE NOIR", "produtos": "Moda Praia (inclui fitness)", "cidade": "Goiânia", "estado": "GO", "contatos": ["Site", "Telefone"]},
+        {"id": "6-5", "nome": "ACQUAMARINES", "produtos": "Moda Praia e Moda Fitness", "cidade": "Joinville", "estado": "SC", "contatos": ["Site", "Telefone"]}
+      ]
+    },
+    {
+      "id": 7,
+      "nome": "Calçados",
+      "descricao": "Calçados para homens, mulheres, crianças e bebês",
+      "fornecedores": [
+        {"id": "7-1", "nome": "Silva Calçados", "produtos": "Calçados Femininos, Fitness, Infantis, Masculinos, Sapatinhos de Bebê", "cidade": "Vitória da Conquista", "estado": "BA", "contatos": ["Site", "Telefone"]},
+        {"id": "7-2", "nome": "Indústria de Calçados Dian Pátris", "produtos": "Calçados Femininos e Masculinos", "cidade": "Igrejinha", "estado": "RS", "contatos": ["Site", "Telefone", "Instagram"]},
+        {"id": "7-3", "nome": "Indústria de Calçados Mazuque", "produtos": "Calçados Femininos, Infantis e Masculinos", "cidade": "Franca", "estado": "SP", "contatos": ["Site", "Telefone"]},
+        {"id": "7-4", "nome": "La Femme Calçados", "produtos": "Calçados Femininos", "cidade": "Birigui", "estado": "SP", "contatos": ["Site", "Telefone"]},
+        {"id": "7-5", "nome": "Aguiar", "produtos": "Calçados Confortáveis, Femininos, Atacado", "cidade": "Nova Trento", "estado": "SC", "contatos": ["Site", "Telefone"]},
+        {"id": "7-6", "nome": "Capelli Rossi", "produtos": "Calçados Confortáveis, Femininos", "cidade": "Igrejinha", "estado": "RS", "contatos": ["Site", "Telefone"]}
+      ]
+    },
+    {
+      "id": 8,
+      "nome": "Semijoias / Pratas",
+      "descricao": "Joias folheadas, semijoias e artigos em prata",
+      "fornecedores": [
+        {"id": "8-1", "nome": "Pedras Oriente", "produtos": "Joias Folheadas, Semijoias, Pedras Brasileiras", "cidade": "Teutônia", "estado": "RS", "contatos": ["Site", "Telefone"]},
+        {"id": "8-2", "nome": "GLAMOUR", "produtos": "Joias e Acessórios", "cidade": "Lontras", "estado": "SC", "contatos": ["Site", "WhatsApp", "Instagram"]},
+        {"id": "8-3", "nome": "Jafercristais", "produtos": "Semijoias, Joias Folheadas, Pedras para Montagem", "cidade": "Belo Horizonte", "estado": "MG", "contatos": ["Site", "WhatsApp", "Instagram"]},
+        {"id": "8-4", "nome": "ATTESA", "produtos": "Joias e Alianças (Ouro, Prata, Moeda Antiga)", "cidade": "Rio Grande", "estado": "RS", "contatos": ["Site", "WhatsApp", "Instagram"]},
+        {"id": "8-5", "nome": "LUNNAR GRIFFE", "produtos": "Semijoias, Bijuterias de Alto Luxo, Joias Folheadas", "cidade": "São Paulo", "estado": "SP", "contatos": ["Site", "WhatsApp", "Instagram"]}
+      ]
+    },
+    {
+      "id": 9,
+      "nome": "Maquiagem e cosméticos",
+      "descricao": "Cosméticos, maquiagem e produtos de beleza em atacado",
+      "fornecedores": [
+        {"id": "9-1", "nome": "London Cosméticos", "produtos": "Cosméticos Capilares, Cosméticos no Atacado", "cidade": "Campo Grande", "estado": "MS", "contatos": ["Site", "Telefone"]},
+        {"id": "9-2", "nome": "Unimarka Distribuidora", "produtos": "Cosméticos no Atacado, Produtos de Higiene Pessoal, Alimentos, Bebidas", "cidade": "Colatina", "estado": "ES", "contatos": ["Site", "Telefone"]},
+        {"id": "9-3", "nome": "Riograndense Distribuidora", "produtos": "Cosméticos no Atacado, Produtos de Higiene Pessoal, Perfumaria", "cidade": "São José de Mipibu", "estado": "RN", "contatos": ["Site", "WhatsApp"]},
+        {"id": "9-4", "nome": "Peligotti Distribuidora de Cosméticos", "produtos": "Cosméticos no Atacado", "cidade": "São Paulo", "estado": "SP", "contatos": ["Site", "Telefone"]},
+        {"id": "9-5", "nome": "CENTIRSE", "produtos": "Cosméticos Profissionais, Cosméticos Capilares, Marcas Próprias", "cidade": "Piracicaba", "estado": "SP", "contatos": ["Site", "WhatsApp"]},
+        {"id": "9-6", "nome": "Bonitas na Web", "produtos": "Maquiagem, Cosméticos no Atacado, Produtos para Cabelos", "cidade": "São Paulo", "estado": "SP", "contatos": ["Site", "Telefone"]},
+        {"id": "9-7", "nome": "Zena Cosméticos Oficial", "produtos": "Cosméticos Profissionais, Cosméticos Naturais, Veganos, Importados", "cidade": "Manaus", "estado": "AM", "contatos": ["Site", "WhatsApp"]}
+      ]
+    },
+    {
+      "id": 10,
+      "nome": "Skincare",
+      "descricao": "Produtos de cuidados com a pele e skincare",
+      "fornecedores": [
+        {"id": "10-1", "nome": "HIALURONI", "produtos": "Ácido Hialurônico, Cosméticos Capilares, Nutricosméticos, Perfumaria no Atacado", "cidade": "Osasco", "estado": "SP", "contatos": ["Site", "WhatsApp"]},
+        {"id": "10-2", "nome": "OURO ROSA", "produtos": "Perfumes Importados, Perfumaria no Atacado, Hidratantes Corporais", "cidade": "Rio de Janeiro", "estado": "RJ", "contatos": ["Site", "WhatsApp"]},
+        {"id": "10-3", "nome": "ALQUIVERDE", "produtos": "Cosmetologia Natural, Óleos Essenciais, Perfumaria no Atacado", "cidade": "Mauá", "estado": "SP", "contatos": ["Site", "WhatsApp"]},
+        {"id": "10-4", "nome": "BEATRIS DISTRIBUIDORA", "produtos": "Perfumaria no Atacado, Produtos de Higiene Pessoal", "cidade": "Cotia", "estado": "SP", "contatos": ["Site", "WhatsApp", "Instagram"]},
+        {"id": "10-5", "nome": "BELEZA VIP", "produtos": "Perfumaria no Atacado, Perfumes Importados, Cosméticos Capilares", "cidade": "São Paulo", "estado": "SP", "contatos": ["Site", "WhatsApp", "Instagram"]}
+      ]
+    },
+    {
+      "id": 11,
+      "nome": "Perfumaria",
+      "descricao": "Perfumes, fragrâncias e produtos de perfumaria",
+      "fornecedores": [
+        {"id": "11-1", "nome": "HIALURONI", "produtos": "Ácido Hialurônico, Cosméticos Capilares, Nutricosméticos, Perfumaria no Atacado", "cidade": "Osasco", "estado": "SP", "contatos": ["Site", "WhatsApp"]},
+        {"id": "11-2", "nome": "OURO ROSA", "produtos": "Perfumes Importados, Perfumaria no Atacado, Hidratantes Corporais", "cidade": "Rio de Janeiro", "estado": "RJ", "contatos": ["Site", "WhatsApp"]},
+        {"id": "11-3", "nome": "ALQUIVERDE", "produtos": "Cosmetologia Natural, Óleos Essenciais, Perfumaria no Atacado", "cidade": "Mauá", "estado": "SP", "contatos": ["Site", "WhatsApp"]},
+        {"id": "11-4", "nome": "BEATRIS DISTRIBUIDORA", "produtos": "Perfumaria no Atacado, Produtos de Higiene Pessoal", "cidade": "Cotia", "estado": "SP", "contatos": ["Site", "WhatsApp", "Instagram"]},
+        {"id": "11-5", "nome": "BELEZA VIP", "produtos": "Perfumaria no Atacado, Perfumes Importados, Cosméticos Capilares", "cidade": "São Paulo", "estado": "SP", "contatos": ["Site", "WhatsApp", "Instagram"]}
+      ]
+    },
+    {
+      "id": 12,
+      "nome": "Cabelos (produtos e ferramentas)",
+      "descricao": "Cosméticos capilares, alisantes e produtos para cabelos",
+      "fornecedores": [
+        {"id": "12-1", "nome": "CENTIRSE", "produtos": "Cosméticos Capilares, Cosméticos Profissionais, Marcas Próprias", "cidade": "Piracicaba", "estado": "SP", "contatos": ["Site", "WhatsApp"]},
+        {"id": "12-2", "nome": "BOTANIK KOSMETICS", "produtos": "Cosméticos Capilares, Terceirização, Cosméticos para Marcas Próprias", "cidade": "Campo Bom", "estado": "RS", "contatos": ["Site", "WhatsApp"]},
+        {"id": "12-3", "nome": "Beauty Hair Cosméticos", "produtos": "Cosméticos Capilares, Máscaras, Produtos para Alisamento", "cidade": "Rio de Janeiro", "estado": "RJ", "contatos": ["Site", "Telefone"]},
+        {"id": "12-4", "nome": "Tróia Hair Cosméticos Oficial", "produtos": "Cosméticos Capilares, Alisantes, Produtos Veganos, Dropshipping", "cidade": "Itaquaquecetuba", "estado": "SP", "contatos": ["Site", "WhatsApp"]},
+        {"id": "12-5", "nome": "IAP! Cosméticos", "produtos": "Cosméticos Capilares, Maquiagem, Produtos para Salões de Beleza", "cidade": "Fortaleza", "estado": "CE", "contatos": ["Site", "Telefone"]},
+        {"id": "12-6", "nome": "PERENE COSMÉTICOS", "produtos": "Cosméticos Capilares, Cosméticos Naturais, Cosméticos para Dropshipping", "cidade": "Goiânia", "estado": "GO", "contatos": ["Site", "WhatsApp"]}
+      ]
+    },
+    {
+      "id": 13,
+      "nome": "Casa & decoração",
+      "descricao": "Artigos de decoração, móveis e artesanatos para casa",
+      "fornecedores": [
+        {"id": "13-1", "nome": "CarrarArt", "produtos": "Artesanatos, Decorações, Fibras de Junco Sintético, Presentes Artesanais", "cidade": "São Carlos", "estado": "SP", "contatos": ["Site", "WhatsApp"]},
+        {"id": "13-2", "nome": "6F Decorações", "produtos": "Abajures, Espelhos, Tapetes, Móveis Decorativos, Artigos de Decoração em Vidro", "cidade": "Cotia", "estado": "SP", "contatos": ["Site", "Telefone"]},
+        {"id": "13-3", "nome": "ÉRICA", "produtos": "Cerâmica Artística, Vasos de Cerâmica, Cachepots, Artigos de Decoração", "cidade": "Porto Ferreira", "estado": "SP", "contatos": ["Site", "Telefone"]},
+        {"id": "13-4", "nome": "SANTA LUZIA", "produtos": "Redes de Descanso, Tapetes, Roupas de Cama, Almofadas Decorativas", "cidade": "São Bento", "estado": "PB", "contatos": ["Site", "Telefone"]},
+        {"id": "13-5", "nome": "M3A ENXOVAIS", "produtos": "Roupas de Cama, Mesa e Banho, Artigos de Decoração, Tapetes", "cidade": "Jardim de Piranhas", "estado": "RN", "contatos": ["Site", "WhatsApp"]},
+        {"id": "13-6", "nome": "KING BAZAR", "produtos": "Decoração, Organização, Aromatizadores, Caixas Organizadoras, Lixeiras", "cidade": "Itápolis", "estado": "SP", "contatos": ["Site", "WhatsApp"]}
+      ]
+    },
+    {
+      "id": 14,
+      "nome": "Cozinha utilidades",
+      "descricao": "Utensílios domésticos, descartáveis e organização de cozinha",
+      "fornecedores": [
+        {"id": "14-1", "nome": "ERA FULL IMPORTADORA", "produtos": "Utensílios Domésticos, Utilidades Domésticas em Silicone, Talheres Descartáveis", "cidade": "Socorro", "estado": "SP", "contatos": ["Site", "WhatsApp"]},
+        {"id": "14-2", "nome": "MAGUS", "produtos": "Acessórios de Organização Doméstica, Caixas Plásticas, Utensílios Domésticos", "cidade": "Guarulhos", "estado": "SP", "contatos": ["Site"]},
+        {"id": "14-3", "nome": "SK", "produtos": "Descartáveis, Produtos de Limpeza, Copos Descartáveis, Detergentes", "cidade": "Guarulhos", "estado": "SP", "contatos": ["Site", "WhatsApp"]},
+        {"id": "14-4", "nome": "ALUMDILL", "produtos": "Panelas, Utensílios Domésticos, Formas de Alumínio, Dropshipping", "cidade": "Divinópolis", "estado": "MG", "contatos": ["Site", "WhatsApp"]},
+        {"id": "14-5", "nome": "PRENDEDORES QUATRO ESTAÇÕES", "produtos": "Prendedores de Roupa, Utensílios Domésticos, Utilidades Domésticas", "cidade": "Quedas do Iguaçu", "estado": "PR", "contatos": ["WhatsApp", "Telefone"]},
+        {"id": "14-6", "nome": "BMGG LIXEIRAS", "produtos": "Lixeiras, Carrinhos de Limpeza, Caixas Organizadoras, Utilidades Domésticas", "cidade": "São Paulo", "estado": "SP", "contatos": ["Site", "WhatsApp"]},
+        {"id": "14-7", "nome": "EVOL CLEAN", "produtos": "Mix de Esponjas, Esponjas de Limpeza, Panos Reutilizáveis, Utensílios Domésticos", "cidade": "Cianorte", "estado": "PR", "contatos": ["Site", "WhatsApp"]}
+      ]
+    },
+    {
+      "id": 15,
+      "nome": "Pet Shop",
+      "descricao": "Alimentos, acessórios e produtos para animais domésticos",
+      "fornecedores": [
+        {"id": "15-1", "nome": "MemorizaCão Shop", "produtos": "Alimentos Desidratados, Biscoitos, Produtos Naturais para Cães", "cidade": "São José", "estado": "SC", "contatos": ["Site", "WhatsApp", "Facebook"]},
+        {"id": "15-2", "nome": "ALTA FREQUÊNCIA", "produtos": "Acessórios para Animais Domésticos, Etiquetas, Brindes Emborrachados", "cidade": "Bom Jesus dos Perdões", "estado": "SP", "contatos": ["Site", "WhatsApp", "Telefone"]},
+        {"id": "15-3", "nome": "DOGS & CATS", "produtos": "Acessibilidade para Pets, Cadeiras, Rampas, Dropshipping", "cidade": "Joinville", "estado": "SC", "contatos": ["Site", "WhatsApp", "Instagram"]},
+        {"id": "15-4", "nome": "VILA SAN MARTINI", "produtos": "Medicamentos, Móveis e Acessórios para Pets", "cidade": "Campinas", "estado": "SP", "contatos": ["Site", "WhatsApp", "Telefone"]},
+        {"id": "15-5", "nome": "AVIÁRIO BEIJA FLOR", "produtos": "Rações, Medicamentos Veterinários, Acessórios, Brinquedos", "cidade": "Matinhos", "estado": "PR", "contatos": ["WhatsApp"]},
+        {"id": "15-6", "nome": "TYMMO PETS", "produtos": "Bebedouros, Comedouros, Brinquedos, Casinhas para Cães e Gatos", "cidade": "Valinhos", "estado": "SP", "contatos": ["Site", "WhatsApp"]},
+        {"id": "15-7", "nome": "WEST PETS", "produtos": "Acessórios, Camas, Coleiras, Máquinas de Tosa, Medicamentos", "cidade": "Estrela d'Oeste", "estado": "SP", "contatos": ["Site", "WhatsApp"]},
+        {"id": "15-8", "nome": "TERRA FLAT", "produtos": "Rações, Produtos de Higiene e Beleza, Tapetes Higiênicos, Dropshipping", "cidade": "Guarulhos", "estado": "SP", "contatos": ["Site", "WhatsApp", "Telefone"]}
+      ]
+    },
+    {
+      "id": 16,
+      "nome": "Papelaria / materiais criativos",
+      "descricao": "Papéis especiais, adesivos, etiquetas e insumos gráficos",
+      "fornecedores": [
+        {"id": "16-1", "nome": "GM Gráfica e Editora", "produtos": "Agendas, Adesivos, Embalagens, Serviços Gráficos", "cidade": "Vitória", "estado": "ES", "contatos": ["Site", "WhatsApp"]},
+        {"id": "16-2", "nome": "CREATIVE", "produtos": "Papéis Especiais, Bobinas, Insumos para Gráficas, Fabricante de Marcas Próprias", "cidade": "São Carlos", "estado": "SP", "contatos": ["Site", "WhatsApp"]},
+        {"id": "16-3", "nome": "SMART SUL", "produtos": "Rótulos e Etiquetas Adesivas, Bobinas Fiscais, Ribbon de Cera", "cidade": "Pouso Alegre", "estado": "MG", "contatos": ["Site", "WhatsApp"]},
+        {"id": "16-4", "nome": "GIHAD", "produtos": "Brindes e Produtos Promocionais, Canetas, Bonés, Camisetas Promocionais", "cidade": "São Paulo", "estado": "SP", "contatos": ["Site", "WhatsApp"]},
+        {"id": "16-5", "nome": "ANYPRINT COMUNICAÇÃO", "produtos": "Adesivos, Decoração Corporativa, Balões de Látex Personalizados", "cidade": "São Paulo", "estado": "SP", "contatos": ["Site", "WhatsApp"]},
+        {"id": "16-6", "nome": "LS", "produtos": "Etiquetas Adesivas, Rótulos, Ribbon, Impressão em Silk-Screen", "cidade": "Sorocaba", "estado": "SP", "contatos": ["Site", "WhatsApp", "Telefone"]},
+        {"id": "16-7", "nome": "ETIQUEPRO", "produtos": "Etiquetas Comerciais e Industriais, Ribbon, Adesivos para Rótulos", "cidade": "São Paulo", "estado": "SP", "contatos": ["Site", "WhatsApp", "Telefone"]}
+      ]
+    },
+    {
+      "id": 17,
+      "nome": "Brinquedos",
+      "descricao": "Brinquedos educativos, jogos e presentes",
+      "fornecedores": [
+        {"id": "17-1", "nome": "BIG STAR", "produtos": "Brinquedos de Plástico, Educativos, para Festas e Eventos", "cidade": "Ferraz de Vasconcelos", "estado": "SP", "contatos": ["Site", "Telefone"]},
+        {"id": "17-2", "nome": "Oficina de Brinquedos Evi", "produtos": "Brinquedos Educativos, Presentes Artesanais", "cidade": "São Paulo", "estado": "SP", "contatos": ["Site", "Telefone"]},
+        {"id": "17-3", "nome": "GUEDES e GUEDES", "produtos": "Brinquedos Educativos, Jogos de Tabuleiro, Presentes e Decorações", "cidade": "Curitiba", "estado": "PR", "contatos": ["Instagram", "WhatsApp", "Telefone"]},
+        {"id": "17-4", "nome": "JoyBox", "produtos": "Brinquedos no Atacado, Jogos e Brinquedos Importados, Produtos para Revenda", "cidade": "São Paulo", "estado": "SP", "contatos": ["Site", "WhatsApp", "Telefone"]},
+        {"id": "17-5", "nome": "Líder Brinquedos", "produtos": "Brinquedos de Plástico, Educativos, para Bebês", "cidade": "Mauá", "estado": "SP", "contatos": ["Site", "Telefone"]},
+        {"id": "17-6", "nome": "TILIN", "produtos": "Brinquedos de Plástico, Educativos, para Bebês, Cozinha de Brinquedo", "cidade": "Barueri", "estado": "SP", "contatos": ["Site", "Telefone"]}
+      ]
+    },
+    {
+      "id": 18,
+      "nome": "Materiais para festa",
+      "descricao": "Decorações, balões, embalagens e artigos para festas",
+      "fornecedores": [
+        {"id": "18-1", "nome": "Atacadão de Embalagens", "produtos": "Artigos para Decoração de Festas, Embalagens, Descartáveis, Confeitaria", "cidade": "Carapicuíba", "estado": "SP", "contatos": ["Site", "WhatsApp", "Telefone"]},
+        {"id": "18-2", "nome": "LUMA FESTAS", "produtos": "Artigos para Festas, Balões, Kits para Festas, Painéis Decorativos", "cidade": "São Paulo", "estado": "SP", "contatos": ["Instagram", "WhatsApp", "Telefone"]},
+        {"id": "18-3", "nome": "JESUSDECOR", "produtos": "Velas, Lamparinas, Artigos para Decoração de Festas, Artigos Religiosos", "cidade": "São Paulo", "estado": "SP", "contatos": ["Site", "WhatsApp", "Telefone"]},
+        {"id": "18-4", "nome": "Manduco Felicitá", "produtos": "Decoração de Festas, Locação de Decoração, Flores e Ornamentações", "cidade": "Brasília", "estado": "DF", "contatos": ["Site", "WhatsApp", "Telefone"]},
+        {"id": "18-5", "nome": "COBRA", "produtos": "Embalagens e Descartáveis, Artigos para Decoração de Festas, Balões", "cidade": "Carlos Barbosa", "estado": "RS", "contatos": ["Site", "WhatsApp", "Telefone"]},
+        {"id": "18-6", "nome": "3G MOTI", "produtos": "Artigos de Festa e Casa, Decoração, Descartáveis, Balões", "cidade": "Guarulhos", "estado": "SP", "contatos": ["Site", "WhatsApp"]},
+        {"id": "18-7", "nome": "BRILHO FESTIVO", "produtos": "Artigos para Decoração de Festas, Artigos de Decoração de Natal", "cidade": "São Paulo", "estado": "SP", "contatos": ["Site", "WhatsApp", "Telefone"]},
+        {"id": "18-8", "nome": "NOVA FESTA", "produtos": "Artigos para Festas e Confeitaria, Descartáveis, Embalagens", "cidade": "São Paulo", "estado": "SP", "contatos": ["Site", "WhatsApp"]}
+      ]
+    },
+    {
+      "id": 19,
+      "nome": "Artigos para bebê",
+      "descricao": "Produtos, brinquedos e acessórios para bebês",
+      "fornecedores": [
+        {"id": "19-1", "nome": "BUBA BABY", "produtos": "Produtos para Bebês, Brinquedos, Acessórios", "cidade": "São Paulo", "estado": "SP", "contatos": ["Site", "WhatsApp", "Telefone"]},
+        {"id": "19-2", "nome": "CORTEX BRINQUEDOS", "produtos": "Brinquedos para Bebês, Bichos de Pelúcia, Pantufas", "cidade": "São Paulo", "estado": "SP", "contatos": ["Site", "Telefone"]},
+        {"id": "19-3", "nome": "BRANDILI", "produtos": "Roupas Infantis e de Bebês, Acessórios, Enxoval", "cidade": "São Paulo", "estado": "SP", "contatos": ["Site", "WhatsApp"]},
+        {"id": "19-4", "nome": "COLORIBABY", "produtos": "Moda Infantil, Fantasias, Acessórios", "cidade": "Duque de Caxias", "estado": "RJ", "contatos": ["Site", "WhatsApp", "Telefone"]},
+        {"id": "19-5", "nome": "GRÁVIDA DE GÊMEOS", "produtos": "Artigos para Mamãe e Bebê, Almofadas de Amamentação, Berços", "cidade": "São Paulo", "estado": "SP", "contatos": ["Site", "WhatsApp"]}
+      ]
+    },
+    {
+      "id": 20,
+      "nome": "Acessórios automotivos",
+      "descricao": "Acessórios, som automotivo e eletrônicos para carros",
+      "fornecedores": [
+        {"id": "20-1", "nome": "DFENDER", "produtos": "Acessórios Automotivos, Customização, Overbumper, Apara-Barro", "cidade": "Cachoeirinha", "estado": "RS", "contatos": ["Site", "Telefone"]},
+        {"id": "20-2", "nome": "Auto Elétrica Fleck", "produtos": "Rádios, Alarmes, Acessórios para Automóveis, Eletrônica", "cidade": "São Leopoldo", "estado": "RS", "contatos": ["Site", "Telefone"]},
+        {"id": "20-3", "nome": "Bara Som", "produtos": "Componentes para Som Automotivo, Travas Elétricas, Acessórios", "cidade": "Rio de Janeiro", "estado": "RJ", "contatos": ["Site", "Telefone"]},
+        {"id": "20-4", "nome": "Soft Sistemas Eletrônicos", "produtos": "Alarmes, Travas Elétricas, GPS, Componentes Eletrônicos Automotivos", "cidade": "Pato Branco", "estado": "PR", "contatos": ["Site", "Telefone"]},
+        {"id": "20-5", "nome": "Adesivos Lumar", "produtos": "Impressão de Adesivos, Acessórios Automotivos", "cidade": "Guarulhos", "estado": "SP", "contatos": ["Site", "Telefone"]},
+        {"id": "20-6", "nome": "Artefatos de Metais e Plásticos Ludovico", "produtos": "Acessórios Automotivos para Montadoras, Artefatos de Metais e Plásticos", "cidade": "Diadema", "estado": "SP", "contatos": ["Site", "Telefone"]},
+        {"id": "20-7", "nome": "Orbe do Brasil", "produtos": "Indústria de Acessórios Automotivos", "cidade": "Caxias do Sul", "estado": "RS", "contatos": ["Site", "Telefone"]},
+        {"id": "20-8", "nome": "Artsom", "produtos": "Comércio e Instalação de Acessórios Automotivos, Som, GPS", "cidade": "Porto Alegre", "estado": "RS", "contatos": ["Facebook", "Telefone"]},
+        {"id": "20-9", "nome": "Minas - Acessórios Automotivos", "produtos": "Acessórios Automotivos, Acessórios para Automóveis", "cidade": "Contagem", "estado": "MG", "contatos": ["Site", "Telefone"]}
+      ]
+    },
+    {
+      "id": 21,
+      "nome": "Relógios & acessórios",
+      "descricao": "Relógios de pulso, smartwatch e acessórios",
+      "fornecedores": [
+        {"id": "21-1", "nome": "Toulouse Jóias", "produtos": "Relógios de Pulso (diversos tipos), Joias de Ouro, Alianças", "cidade": "Rio de Janeiro", "estado": "RJ", "contatos": ["WhatsApp", "Site", "Telefone"]},
+        {"id": "21-2", "nome": "Espaço Fechado Indústria Comércio e Serviços", "produtos": "Relógios de Pulso, Relógios para Brindes, Óculos de Sol e de Leitura", "cidade": "Santo André", "estado": "SP", "contatos": ["WhatsApp", "Instagram", "Site", "Telefone"]},
+        {"id": "21-3", "nome": "Presentes da Hora", "produtos": "Relógios de Pulso, Relógios Importados", "cidade": "São Paulo", "estado": "SP", "contatos": ["Facebook", "Telefone"]},
+        {"id": "21-4", "nome": "Wasfer ImportShop", "produtos": "Relógios de Pulso, Smartwatch, Eletrônicos no Atacado, Calçados", "cidade": "Goiânia", "estado": "GO", "contatos": ["WhatsApp", "Facebook", "Site", "Telefone"]},
+        {"id": "21-5", "nome": "ANGELONI", "produtos": "Relógios de Pulso, Artigos de Decoração, Eletrodomésticos, Artigos Esportivos", "cidade": "Porto Belo", "estado": "SC", "contatos": ["Site", "Telefone"]},
+        {"id": "21-6", "nome": "Big Loja Atacado", "produtos": "Relógios, Eletrônicos no Atacado, Brinquedos, Eletroportáteis", "cidade": "Porto Alegre", "estado": "RS", "contatos": ["WhatsApp", "Site", "Telefone"]},
+        {"id": "21-7", "nome": "TQV", "produtos": "Tecnologia e Qualidade de Vida - Relógios de Pulso, Smartwatch, Acessórios para Celulares", "cidade": "Ananás", "estado": "TO", "contatos": ["WhatsApp", "Site", "Telefone"]}
+      ]
+    },
+    {
+      "id": 22,
+      "nome": "Moda praia",
+      "descricao": "Biquínis, maiôs e roupas de praia",
+      "fornecedores": [
+        {"id": "22-1", "nome": "GOLD MAR", "produtos": "Moda Praia e Fitness", "cidade": "Votuporanga", "estado": "SP", "contatos": ["Site", "Telefone", "Instagram"]},
+        {"id": "22-2", "nome": "ROUGE NOIR", "produtos": "Moda Praia (inclui fitness)", "cidade": "Goiânia", "estado": "GO", "contatos": ["Site", "Telefone"]},
+        {"id": "22-3", "nome": "ACQUAMARINES", "produtos": "Moda Praia e Moda Fitness", "cidade": "Joinville", "estado": "SC", "contatos": ["Site", "Telefone"]},
+        {"id": "22-4", "nome": "Rota do Mar", "produtos": "Moda Praia, Surfwear, Acessórios", "cidade": "Santa Cruz do Capibaribe", "estado": "PE", "contatos": ["Site", "Telefone", "WhatsApp"]},
+        {"id": "22-5", "nome": "D'Chelles", "produtos": "Moda Praia, Biquínis, Maiôs, Saídas de Praia", "cidade": "São Paulo", "estado": "SP", "contatos": ["Site", "WhatsApp"]},
+        {"id": "22-6", "nome": "Maré Brasil", "produtos": "Moda Praia, Biquínis, Maiôs, Saídas de Praia", "cidade": "São Paulo", "estado": "SP", "contatos": ["Site", "WhatsApp"]},
+        {"id": "22-7", "nome": "Cia Marítima", "produtos": "Moda Praia, Biquínis, Maiôs, Saídas de Praia", "cidade": "São Paulo", "estado": "SP", "contatos": ["Site", "Telefone"]}
+      ]
+    },
+    {
+      "id": 23,
+      "nome": "Têxteis (cama, mesa, banho)",
+      "descricao": "Roupas de cama, mesa e banho",
+      "fornecedores": [
+        {"id": "23-1", "nome": "M3A ENXOVAIS", "produtos": "Roupas de Cama, Mesa e Banho, Artigos de Decoração, Tapetes", "cidade": "Jardim de Piranhas", "estado": "RN", "contatos": ["Site", "WhatsApp"]},
+        {"id": "23-2", "nome": "SANTA LUZIA", "produtos": "Redes de Descanso, Tapetes, Roupas de Cama, Almofadas Decorativas", "cidade": "São Bento", "estado": "PB", "contatos": ["Site", "Telefone"]},
+        {"id": "23-3", "nome": "Teka", "produtos": "Roupas de Cama, Mesa e Banho", "cidade": "Blumenau", "estado": "SC", "contatos": ["Site", "Telefone"]},
+        {"id": "23-4", "nome": "Karsten", "produtos": "Roupas de Cama, Mesa e Banho, Tapetes", "cidade": "Blumenau", "estado": "SC", "contatos": ["Site", "Telefone"]},
+        {"id": "23-5", "nome": "Santista", "produtos": "Roupas de Cama, Mesa e Banho", "cidade": "São Paulo", "estado": "SP", "contatos": ["Site", "Telefone"]},
+        {"id": "23-6", "nome": "Buddemeyer", "produtos": "Roupas de Cama, Mesa e Banho", "cidade": "São Bento do Sul", "estado": "SC", "contatos": ["Site", "Telefone"]},
+        {"id": "23-7", "nome": "Dohler", "produtos": "Roupas de Cama, Mesa e Banho, Tecidos", "cidade": "Joinville", "estado": "SC", "contatos": ["Site", "Telefone"]}
+      ]
+    },
+    {
+      "id": 24,
+      "nome": "Bolsas e mochilas",
+      "descricao": "Bolsas, mochilas e carteiras em couro",
+      "fornecedores": [
+        {"id": "24-1", "nome": "GUIQUE IMPORTADORA", "produtos": "Bolsas Masculinas, Mochilas, Bolsas de Viagem, Brindes", "cidade": "Joinville", "estado": "SC", "contatos": ["WhatsApp", "Site", "Telefone"]},
+        {"id": "24-2", "nome": "BAUARTE", "produtos": "Bolsas e Acessórios de Moda, Bolsas Femininas, Mochilas, Carteiras", "cidade": "São Paulo", "estado": "SP", "contatos": ["WhatsApp", "Site", "Telefone"]},
+        {"id": "24-3", "nome": "DUMOND", "produtos": "Calçados e Bolsas, Bolsas em Couro, Mochilas Femininas, Calçados", "cidade": "Jaú", "estado": "SP", "contatos": ["Site", "Telefone"]},
+        {"id": "24-4", "nome": "MARINHO SHOPPING", "produtos": "Loja Online, Bolsas em Couro, Mochilas, Calçados", "cidade": "São José dos Campos", "estado": "SP", "contatos": ["Site", "Telefone"]},
+        {"id": "24-5", "nome": "Edubolsas Indústria e Comércio", "produtos": "Bolsas, Mochilas em Couro, Carteiras, Pastas", "cidade": "Presidente Prudente", "estado": "SP", "contatos": ["Site", "Telefone"]},
+        {"id": "24-6", "nome": "Idaplast Indústria e Comércio", "produtos": "Mochilas, Bolsas, Embalagens Laminadas", "cidade": "Hortolândia", "estado": "SP", "contatos": ["Site", "Telefone"]},
+        {"id": "24-7", "nome": "Grupo J Shayeb", "produtos": "Acessórios de Couro, Bolsas em Couro, Mochilas em Couro", "cidade": "Bauru", "estado": "SP", "contatos": ["WhatsApp", "Site", "Telefone"]}
+      ]
+    },
+    {
+      "id": 25,
+      "nome": "Informática & acessórios",
+      "descricao": "Suprimentos para informática, equipamentos e acessórios de TI",
+      "fornecedores": [
+        {"id": "25-1", "nome": "Supri Marketing", "produtos": "Suprimentos para Informática", "cidade": "São Paulo", "estado": "SP", "contatos": ["Telefone", "Facebook"]},
+        {"id": "25-2", "nome": "Br Suprimentos", "produtos": "Suprimentos para Informática, Locação de Equipamentos de Informática - TI", "cidade": "São Paulo", "estado": "SP", "contatos": ["Telefone", "Site"]},
+        {"id": "25-3", "nome": "GALASSI", "produtos": "Soluções em Elétrica e Informática", "cidade": "São Paulo", "estado": "SP", "contatos": ["Telefone", "Facebook"]},
+        {"id": "25-4", "nome": "RCV Soluções Tecnológicas", "produtos": "Suprimentos para Informática, Consultoria, Manutenção", "cidade": "São Paulo", "estado": "SP", "contatos": ["Telefone", "Site"]},
+        {"id": "25-5", "nome": "TEC SHIFT", "produtos": "Automação e Informática, Suprimentos para Informática, Coletores de Dados, Impressoras", "cidade": "São Paulo", "estado": "SP", "contatos": ["WhatsApp", "Telefone", "Site"]},
+        {"id": "25-6", "nome": "Ac3 Informática", "produtos": "Acessórios para Informática, Fontes de Alimentação, Monitores, Placas", "cidade": "Curitiba", "estado": "PR", "contatos": ["Telefone", "Site"]},
+        {"id": "25-7", "nome": "WLG Distribuidora", "produtos": "Material de Escritório, Suprimentos para Informática", "cidade": "Novo Hamburgo", "estado": "RS", "contatos": ["Telefone", "Site"]}
+      ]
+    },
+    {
+      "id": 26,
+      "nome": "Produtos religiosos",
+      "descricao": "Artigos religiosos católicos, esotéricos e de diferentes tradições",
+      "fornecedores": [
+        {"id": "26-1", "nome": "DOMENICO", "produtos": "Artigos Religiosos Católicos, Crucifixos, Terços, Estátuas Sacras", "cidade": "Piracicaba", "estado": "SP", "contatos": ["WhatsApp", "Site", "Telefone"]},
+        {"id": "26-2", "nome": "LOJÃO IMPÉRIO MAC", "produtos": "Brindes de Artigos Religiosos, Chaveiros, Medalhas Católicas", "cidade": "São Paulo", "estado": "SP", "contatos": ["WhatsApp", "Site", "Telefone"]},
+        {"id": "26-3", "nome": "RAÍZES DO BRASIL", "produtos": "Artigos para Umbanda, Candomblé e Místico, Produtos Esotéricos, Incensos", "cidade": "Barueri", "estado": "SP", "contatos": ["WhatsApp", "Site", "Telefone"]},
+        {"id": "26-4", "nome": "DOM SAGRADO", "produtos": "Presentes Católicos, Dropshipping, Joias Religiosas, Terços Católicos", "cidade": "Santo Antônio da Platina", "estado": "PR", "contatos": ["WhatsApp", "Site", "Telefone"]},
+        {"id": "26-5", "nome": "UNIVERSO DO SABONETE", "produtos": "Artigos Religiosos, Sabonetes de Ervas, Produtos Esotéricos", "cidade": "Florianópolis", "estado": "SC", "contatos": ["WhatsApp", "Site", "Telefone"]}
+      ]
+    },
+    {
+      "id": 27,
+      "nome": "Produtos para barbearia",
+      "descricao": "Cosméticos para barbas, barbeadores e produtos de higiene para homens",
+      "fornecedores": [
+        {"id": "27-1", "nome": "MASTER HOTELARIA", "produtos": "Cosméticos para Barbas, Barbeadores Descartáveis, Produtos de Higiene Pessoal para Homens", "cidade": "Guarulhos", "estado": "SP", "contatos": ["WhatsApp", "Site", "Telefone"]},
+        {"id": "27-2", "nome": "FLORA PURA JOAO PESSOA", "produtos": "Cosméticos para Barbas, Espuma para Barbear, Argila Branca/Verde", "cidade": "João Pessoa", "estado": "PB", "contatos": ["WhatsApp", "Site", "Telefone"]},
+        {"id": "27-3", "nome": "DNA COSMETICS", "produtos": "Cosméticos para Barbas, Cosméticos para Marcas Próprias, Desenvolvimento de Formulações", "cidade": "Canoas", "estado": "RS", "contatos": ["WhatsApp", "Site", "Telefone"]},
+        {"id": "27-4", "nome": "Tróia Hair Cosméticos Oficial", "produtos": "Cosméticos para Barbas, Cosméticos Capilares, Cosméticos Veganos, Dropshipping", "cidade": "Itaquaquecetuba", "estado": "SP", "contatos": ["WhatsApp", "Site", "Telefone"]},
+        {"id": "27-5", "nome": "IAP! Cosméticos", "produtos": "Cosméticos para Barbas, Cosméticos no Atacado, Móveis para Salões de Beleza e Barbearias", "cidade": "Fortaleza", "estado": "CE", "contatos": ["Site", "Telefone"]},
+        {"id": "27-6", "nome": "Ponto 9 Cosméticos", "produtos": "Cosméticos para Barbas, Espuma para Barbear, Produtos de Higiene Pessoal para Homens", "cidade": "São Paulo", "estado": "SP", "contatos": ["WhatsApp", "Site", "Telefone"]}
+      ]
+    },
+    {
+      "id": 28,
+      "nome": "Produtos para Pet Shop",
+      "descricao": "Produtos de higiene, beleza, alimentos e acessórios para animais domésticos",
+      "fornecedores": [
+        {"id": "28-1", "nome": "ZUPPANI", "produtos": "Produtos de Higiene e Beleza para Animais Domésticos, Água Sanitária, Alvejantes, Desinfetantes", "cidade": "Aparecida de Goiânia", "estado": "GO", "contatos": ["Telefone", "Site"]},
+        {"id": "28-2", "nome": "AGEVET", "produtos": "Produtos de Higiene e Beleza para Animais Domésticos, Shampoos, Condicionadores, Perfumes", "cidade": "Cachoeirinha", "estado": "RS", "contatos": ["Telefone", "WhatsApp", "Site"]},
+        {"id": "28-3", "nome": "AVIPEC", "produtos": "Acessórios, Alimentos (Cães e Gatos), Medicamentos Veterinários, Produtos para Petshop", "cidade": "Fortaleza", "estado": "CE", "contatos": ["Telefone", "WhatsApp", "Site"]},
+        {"id": "28-4", "nome": "TYMMO PETS", "produtos": "Acessórios, Brinquedos, Casinhas, Produtos para Petshop, Produtos para Revenda/Dropshipping", "cidade": "Valinhos", "estado": "SP", "contatos": ["WhatsApp", "Site"]},
+        {"id": "28-5", "nome": "DOGS & CATS", "produtos": "Acessórios, Cadeiras, Rampas, Produtos para Acessibilidade de Pets, Dropshipping", "cidade": "Joinville", "estado": "SC", "contatos": ["WhatsApp", "Instagram"]},
+        {"id": "28-6", "nome": "WEST PETS", "produtos": "Acessórios, Camas, Coleiras, Máquinas de Tosa, Medicamentos, Produtos para Petshop", "cidade": "Estrela d'Oeste", "estado": "SP", "contatos": ["Telefone", "WhatsApp", "Site"]},
+        {"id": "28-7", "nome": "TERRA FLAT", "produtos": "Acessórios, Escovas, Medicamentos, Produtos de Higiene e Beleza, Rações, Tapetes Higiênicos, Dropshipping", "cidade": "Guarulhos", "estado": "SP", "contatos": ["Telefone", "WhatsApp"]}
+      ]
+    },
+    {
+      "id": 29,
+      "nome": "Artigos de pesca",
+      "descricao": "Anzóis, fios, boias, carretilhas e equipamentos para pesca recreativa",
+      "fornecedores": [
+        {"id": "29-1", "nome": "NutriAgro Loja", "produtos": "Anzóis de Pesca, Chumbinho para Pesca, Fios para Pesca, Material para Pesca Recreativa", "cidade": "Quilombo", "estado": "SC", "contatos": ["Telefone", "Site", "WhatsApp"]},
+        {"id": "29-2", "nome": "Aprazível Pesca", "produtos": "Anzóis de Pesca, Boias de Isopor para Pesca, Fios para Pesca, Flutuadores para Redes de Pesca", "cidade": "Monte Aprazível", "estado": "SP", "contatos": ["Telefone", "WhatsApp"]},
+        {"id": "29-3", "nome": "Hook Pesca", "produtos": "Loja Especializada em Artigos de Pesca, Anzóis de Pesca, Carretilhas para Pesca, Varas de Pescar", "cidade": "Contagem", "estado": "MG", "contatos": ["Telefone", "Site"]},
+        {"id": "29-4", "nome": "MAZZAFERRO", "produtos": "Fibras e Fios Sintéticos, Anzóis de Pesca, Boias de Isopor para Pesca, Cordas para Pesca", "cidade": "Diadema", "estado": "SP", "contatos": ["Telefone", "Site"]},
+        {"id": "29-5", "nome": "SANTA PESCA", "produtos": "Loja de Pesca e Camping, Anzóis de Pesca, Caixas para Pescados, Carretilhas para Pesca", "cidade": "Lagoa Santa", "estado": "MG", "contatos": ["Telefone", "Site", "WhatsApp"]}
+      ]
+    },
+    {
+      "id": 30,
+      "nome": "Produtos de limpeza",
+      "descricao": "Desinfetantes, detergentes, álcool gel e produtos de higiene profissional",
+      "fornecedores": [
+        {"id": "30-1", "nome": "TOPBEL", "produtos": "Produtos de Higiene Pessoal e Material de Limpeza, Sabonetes Líquidos, Desinfetantes Base Cloro", "cidade": "Duque de Caxias", "estado": "RJ", "contatos": ["Telefone", "Site", "WhatsApp"]},
+        {"id": "30-2", "nome": "TEX CLEAR", "produtos": "Produtos de Limpeza Profissional, Desinfetantes Base Cloro, Desinfetantes Hospitalares, Detergente Enzimático", "cidade": "Araxá", "estado": "MG", "contatos": ["Telefone", "Site", "WhatsApp"]},
+        {"id": "30-3", "nome": "SEVEN GREEN QUÍMICA", "produtos": "Produtos para Limpeza Profissional, Desinfetantes Base Cloro, Desinfetantes Industriais, Detergente Líquido", "cidade": "Santa Luzia", "estado": "MG", "contatos": ["Telefone", "Site", "WhatsApp"]},
+        {"id": "30-4", "nome": "ALLMOX", "produtos": "Produtos de Limpeza e Descartáveis, Álcool Gel Antisséptico, Desinfetantes Base Cloro, Detergente Líquido", "cidade": "Nova Odessa", "estado": "SP", "contatos": ["Telefone", "Site", "WhatsApp"]},
+        {"id": "30-5", "nome": "HIGIRIB", "produtos": "Produtos de Higiene Profissional, Desinfetantes Base Cloro, Desinfetantes Industriais, Detergente Líquido", "cidade": "Ribeirão Preto", "estado": "SP", "contatos": ["Telefone", "Site", "WhatsApp"]}
+      ]
+    }
+  ]
+}

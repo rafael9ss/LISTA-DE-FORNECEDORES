@@ -1,0 +1,380 @@
+{
+  "nichos": [
+    {
+      "id": 1,
+      "nome": "Eletrônicos e acessórios",
+      "descricao": "Acessórios para celulares, eletrônicos e equipamentos de áudio/vídeo",
+      "fornecedores": [
+        {
+          "id": "1-1",
+          "nome": "ERA FULL IMPORTADORA",
+          "produtos": "Acessórios para Celulares (capas, películas, fones)",
+          "cidade": "São Paulo",
+          "estado": "SP",
+          "contatos": ["Site", "Telefone"]
+        },
+        {
+          "id": "1-2",
+          "nome": "SABRINA",
+          "produtos": "Eletrônicos, Celulares e Informática",
+          "cidade": "São Paulo",
+          "estado": "SP",
+          "contatos": ["Site", "Telefone"]
+        },
+        {
+          "id": "1-3",
+          "nome": "BRIGHT",
+          "produtos": "Áudio e Vídeo",
+          "cidade": "São Paulo",
+          "estado": "SP",
+          "contatos": ["Site", "Telefone"]
+        },
+        {
+          "id": "1-4",
+          "nome": "ICB importadora",
+          "produtos": "Acessórios para Celulares",
+          "cidade": "São Paulo",
+          "estado": "SP",
+          "contatos": ["Site", "Telefone"]
+        },
+        {
+          "id": "1-5",
+          "nome": "EVODIA IT BRAZIL",
+          "produtos": "Acessórios para Celulares",
+          "cidade": "São Paulo",
+          "estado": "SP",
+          "contatos": ["Site", "Telefone"]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "Acessórios femininos",
+      "descricao": "Bolsas, acessórios de moda feminina, meias e artigos em couro",
+      "fornecedores": [
+        {
+          "id": "2-1",
+          "nome": "Oxfoot",
+          "produtos": "Bolsas, Acessórios de Moda Feminina, Acessórios de Moda em Couro",
+          "cidade": "Rio de Janeiro",
+          "estado": "RJ",
+          "contatos": ["Site", "Telefone"]
+        },
+        {
+          "id": "2-2",
+          "nome": "Anna Karenina",
+          "produtos": "Acessórios de Moda Feminina/Masculina",
+          "cidade": "São Marcos",
+          "estado": "RS",
+          "contatos": ["Site", "Telefone"]
+        },
+        {
+          "id": "2-3",
+          "nome": "Socks Co",
+          "produtos": "Meias de Compressão, Esportivas, Femininas, Infantis, Masculinas",
+          "cidade": "Jacareí",
+          "estado": "SP",
+          "contatos": ["Site", "Telefone"]
+        },
+        {
+          "id": "2-4",
+          "nome": "Grupo J Shayeb",
+          "produtos": "Acessórios de Couro (Bolsas, Cintos, Mochilas)",
+          "cidade": "Bauru",
+          "estado": "SP",
+          "contatos": ["Site", "Telefone"]
+        },
+        {
+          "id": "2-5",
+          "nome": "Rota do Mar",
+          "produtos": "Acessórios de Moda Feminina/Masculina, Surfwear",
+          "cidade": "Santa Cruz do Capibaribe",
+          "estado": "PE",
+          "contatos": ["Site", "Telefone", "WhatsApp"]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "nome": "Informática & acessórios",
+      "descricao": "Suprimentos para informática, equipamentos e acessórios de TI",
+      "fornecedores": [
+        {
+          "id": "25-1",
+          "nome": "Supri Marketing",
+          "produtos": "Suprimentos para Informática",
+          "cidade": "São Paulo",
+          "estado": "SP",
+          "contatos": ["Telefone", "Facebook"]
+        },
+        {
+          "id": "25-2",
+          "nome": "Br Suprimentos",
+          "produtos": "Suprimentos para Informática, Locação de Equipamentos de Informática - TI",
+          "cidade": "São Paulo",
+          "estado": "SP",
+          "contatos": ["Telefone", "Site"]
+        },
+        {
+          "id": "25-3",
+          "nome": "GALASSI",
+          "produtos": "Soluções em Elétrica e Informática",
+          "cidade": "São Paulo",
+          "estado": "SP",
+          "contatos": ["Telefone", "Facebook"]
+        },
+        {
+          "id": "25-4",
+          "nome": "RCV Soluções Tecnológicas",
+          "produtos": "Suprimentos para Informática, Consultoria, Manutenção",
+          "cidade": "São Paulo",
+          "estado": "SP",
+          "contatos": ["Telefone", "Site"]
+        },
+        {
+          "id": "25-5",
+          "nome": "TEC SHIFT",
+          "produtos": "Automação e Informática, Suprimentos para Informática, Coletores de Dados, Impressoras",
+          "cidade": "São Paulo",
+          "estado": "SP",
+          "contatos": ["WhatsApp", "Telefone", "Site"]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "nome": "Produtos religiosos",
+      "descricao": "Artigos religiosos católicos, esotéricos e de diferentes tradições",
+      "fornecedores": [
+        {
+          "id": "26-1",
+          "nome": "DOMENICO",
+          "produtos": "Artigos Religiosos Católicos, Crucifixos, Terços, Estátuas Sacras",
+          "cidade": "Piracicaba",
+          "estado": "SP",
+          "contatos": ["WhatsApp", "Site", "Telefone"]
+        },
+        {
+          "id": "26-2",
+          "nome": "LOJÃO IMPÉRIO MAC",
+          "produtos": "Brindes de Artigos Religiosos, Chaveiros, Medalhas Católicas",
+          "cidade": "São Paulo",
+          "estado": "SP",
+          "contatos": ["WhatsApp", "Site", "Telefone"]
+        },
+        {
+          "id": "26-3",
+          "nome": "RAÍZES DO BRASIL",
+          "produtos": "Artigos para Umbanda, Candomblé e Místico, Produtos Esotéricos, Incensos",
+          "cidade": "Barueri",
+          "estado": "SP",
+          "contatos": ["WhatsApp", "Site", "Telefone"]
+        },
+        {
+          "id": "26-4",
+          "nome": "DOM SAGRADO",
+          "produtos": "Presentes Católicos, Dropshipping, Joias Religiosas, Terços Católicos",
+          "cidade": "Santo Antônio da Platina",
+          "estado": "PR",
+          "contatos": ["WhatsApp", "Site", "Telefone"]
+        },
+        {
+          "id": "26-5",
+          "nome": "UNIVERSO DO SABONETE",
+          "produtos": "Artigos Religiosos, Sabonetes de Ervas, Produtos Esotéricos",
+          "cidade": "Florianópolis",
+          "estado": "SC",
+          "contatos": ["WhatsApp", "Site", "Telefone"]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "nome": "Produtos para barbearia",
+      "descricao": "Cosméticos para barbas, barbeadores e produtos de higiene para homens",
+      "fornecedores": [
+        {
+          "id": "27-1",
+          "nome": "MASTER HOTELARIA",
+          "produtos": "Cosméticos para Barbas, Barbeadores Descartáveis, Produtos de Higiene Pessoal para Homens",
+          "cidade": "Guarulhos",
+          "estado": "SP",
+          "contatos": ["WhatsApp", "Site", "Telefone"]
+        },
+        {
+          "id": "27-2",
+          "nome": "FLORA PURA JOAO PESSOA",
+          "produtos": "Cosméticos para Barbas, Espuma para Barbear, Argila Branca/Verde",
+          "cidade": "João Pessoa",
+          "estado": "PB",
+          "contatos": ["WhatsApp", "Site", "Telefone"]
+        },
+        {
+          "id": "27-3",
+          "nome": "DNA COSMETICS",
+          "produtos": "Cosméticos para Barbas, Cosméticos para Marcas Próprias, Desenvolvimento de Formulações",
+          "cidade": "Canoas",
+          "estado": "RS",
+          "contatos": ["WhatsApp", "Site", "Telefone"]
+        },
+        {
+          "id": "27-4",
+          "nome": "Tróia Hair Cosméticos Oficial",
+          "produtos": "Cosméticos para Barbas, Cosméticos Capilares, Cosméticos Veganos, Dropshipping",
+          "cidade": "Itaquaquecetuba",
+          "estado": "SP",
+          "contatos": ["WhatsApp", "Site", "Telefone"]
+        },
+        {
+          "id": "27-5",
+          "nome": "IAP! Cosméticos",
+          "produtos": "Cosméticos para Barbas, Cosméticos no Atacado, Móveis para Salões de Beleza e Barbearias",
+          "cidade": "Fortaleza",
+          "estado": "CE",
+          "contatos": ["Site", "Telefone"]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "nome": "Produtos para Pet Shop",
+      "descricao": "Produtos de higiene, beleza, alimentos e acessórios para animais domésticos",
+      "fornecedores": [
+        {
+          "id": "28-1",
+          "nome": "ZUPPANI",
+          "produtos": "Produtos de Higiene e Beleza para Animais Domésticos, Água Sanitária, Alvejantes, Desinfetantes",
+          "cidade": "Aparecida de Goiânia",
+          "estado": "GO",
+          "contatos": ["Telefone", "Site"]
+        },
+        {
+          "id": "28-2",
+          "nome": "AGEVET",
+          "produtos": "Produtos de Higiene e Beleza para Animais Domésticos, Shampoos, Condicionadores, Perfumes",
+          "cidade": "Cachoeirinha",
+          "estado": "RS",
+          "contatos": ["Telefone", "WhatsApp", "Site"]
+        },
+        {
+          "id": "28-3",
+          "nome": "AVIPEC",
+          "produtos": "Acessórios, Alimentos (Cães e Gatos), Medicamentos Veterinários, Produtos para Petshop",
+          "cidade": "Fortaleza",
+          "estado": "CE",
+          "contatos": ["Telefone", "WhatsApp", "Site"]
+        },
+        {
+          "id": "28-4",
+          "nome": "TYMMO PETS",
+          "produtos": "Acessórios, Brinquedos, Casinhas, Produtos para Petshop, Produtos para Revenda/Dropshipping",
+          "cidade": "Valinhos",
+          "estado": "SP",
+          "contatos": ["WhatsApp", "Site"]
+        },
+        {
+          "id": "28-5",
+          "nome": "DOGS & CATS",
+          "produtos": "Acessórios, Cadeiras, Rampas, Produtos para Acessibilidade de Pets, Dropshipping",
+          "cidade": "Joinville",
+          "estado": "SC",
+          "contatos": ["WhatsApp", "Instagram"]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "nome": "Artigos de pesca",
+      "descricao": "Anzóis, fios, boias, carretilhas e equipamentos para pesca recreativa",
+      "fornecedores": [
+        {
+          "id": "29-1",
+          "nome": "NutriAgro Loja",
+          "produtos": "Anzóis de Pesca, Chumbinho para Pesca, Fios para Pesca, Material para Pesca Recreativa",
+          "cidade": "Quilombo",
+          "estado": "SC",
+          "contatos": ["Telefone", "Site", "WhatsApp"]
+        },
+        {
+          "id": "29-2",
+          "nome": "Aprazível Pesca",
+          "produtos": "Anzóis de Pesca, Boias de Isopor para Pesca, Fios para Pesca, Flutuadores para Redes de Pesca",
+          "cidade": "Monte Aprazível",
+          "estado": "SP",
+          "contatos": ["Telefone", "WhatsApp"]
+        },
+        {
+          "id": "29-3",
+          "nome": "Hook Pesca",
+          "produtos": "Loja Especializada em Artigos de Pesca, Anzóis de Pesca, Carretilhas para Pesca, Varas de Pescar",
+          "cidade": "Contagem",
+          "estado": "MG",
+          "contatos": ["Telefone", "Site"]
+        },
+        {
+          "id": "29-4",
+          "nome": "MAZZAFERRO",
+          "produtos": "Fibras e Fios Sintéticos, Anzóis de Pesca, Boias de Isopor para Pesca, Cordas para Pesca",
+          "cidade": "Diadema",
+          "estado": "SP",
+          "contatos": ["Telefone", "Site"]
+        },
+        {
+          "id": "29-5",
+          "nome": "SANTA PESCA",
+          "produtos": "Loja de Pesca e Camping, Anzóis de Pesca, Caixas para Pescados, Carretilhas para Pesca",
+          "cidade": "Lagoa Santa",
+          "estado": "MG",
+          "contatos": ["Telefone", "Site", "WhatsApp"]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "nome": "Produtos de limpeza",
+      "descricao": "Desinfetantes, detergentes, álcool gel e produtos de higiene profissional",
+      "fornecedores": [
+        {
+          "id": "30-1",
+          "nome": "TOPBEL",
+          "produtos": "Produtos de Higiene Pessoal e Material de Limpeza, Sabonetes Líquidos, Desinfetantes Base Cloro",
+          "cidade": "Duque de Caxias",
+          "estado": "RJ",
+          "contatos": ["Telefone", "Site", "WhatsApp"]
+        },
+        {
+          "id": "30-2",
+          "nome": "TEX CLEAR",
+          "produtos": "Produtos de Limpeza Profissional, Desinfetantes Base Cloro, Desinfetantes Hospitalares, Detergente Enzimático",
+          "cidade": "Araxá",
+          "estado": "MG",
+          "contatos": ["Telefone", "Site", "WhatsApp"]
+        },
+        {
+          "id": "30-3",
+          "nome": "SEVEN GREEN QUÍMICA",
+          "produtos": "Produtos para Limpeza Profissional, Desinfetantes Base Cloro, Desinfetantes Industriais, Detergente Líquido",
+          "cidade": "Santa Luzia",
+          "estado": "MG",
+          "contatos": ["Telefone", "Site", "WhatsApp"]
+        },
+        {
+          "id": "30-4",
+          "nome": "ALLMOX",
+          "produtos": "Produtos de Limpeza e Descartáveis, Álcool Gel Antisséptico, Desinfetantes Base Cloro, Detergente Líquido",
+          "cidade": "Nova Odessa",
+          "estado": "SP",
+          "contatos": ["Telefone", "Site", "WhatsApp"]
+        },
+        {
+          "id": "30-5",
+          "nome": "HIGIRIB",
+          "produtos": "Produtos de Higiene Profissional, Desinfetantes Base Cloro, Desinfetantes Industriais, Detergente Líquido",
+          "cidade": "Ribeirão Preto",
+          "estado": "SP",
+          "contatos": ["Telefone", "Site", "WhatsApp"]
+        }
+      ]
+    }
+  ]
+}
